@@ -1,0 +1,45 @@
+console.log("-----------")
+        console.log("componentType: " + componentType +", questionNumber: " +questionNumber + ", componentId: " + componentId +", answer" + answer);
+
+-----------0
+ componentType: MultipleChoice, questionNumber: a2, componentId: 9080-0_ct_ch01_q02_ans01, answera,b
+-----------1
+ componentType: MultipleChoice, questionNumber: a3, componentId: 9080-0_ct_ch01_q03_ans01, answerb,c
+-----------2
+ componentType: MultipleChoice, questionNumber: a4, componentId: 9080-0_ct_ch01_q04_ans01, answerc
+-----------3
+ componentType: MultipleChoice, questionNumber: a6, componentId: 9080-0_ct_ch01_q06_ans01, answerb
+-----------4
+ componentType: MultipleChoice, questionNumber: a7, componentId: 9080-0_ct_ch01_q07_ans01, answera,b,d
+-----------5
+ componentType: MultipleChoice, questionNumber: a10, componentId: 9080-0_ct_ch01_q10_ans01, answerc
+-----------6
+ componentType: MultipleChoice, questionNumber: a11, componentId: 9080-0_ct_ch01_q11_ans01, answera,b,d
+-----------7
+ componentType: MultipleChoice, questionNumber: a2, componentId: 9080-0_ct_ch02_q02_ans01, answerb
+ -----------8
+ componentType: MultipleChoice, questionNumber: a3, componentId: 9080-0_ct_ch02_q03_ans01, answera,c
+ -----------9
+ componentType: MultipleChoice, questionNumber: a5, componentId: 9080-0_ct_ch02_q05_ans01, answera,c
+ -----------10
+ componentType: MultipleChoice, questionNumber: a6, componentId: 9080-0_ct_ch02_q06_ans01, answera
+ -----------11
+ componentType: MultipleChoice, questionNumber: a7, componentId: 9080-0_ct_ch02_q07_ans01, answerc,e
+ -----------12
+ componentType: MultipleChoice, questionNumber: a8, componentId: 9080-0_ct_ch02_q08_ans01, answerb
+ -----------13
+ componentType: MultipleChoice, questionNumber: a10, componentId: 9080-0_ct_ch02_q10_ans01, answerb
+ -----------14
+ componentType: MultipleChoice, questionNumber: a1, componentId: 9080-0_ct_ch03_q01_ans01, answerc
+ -----------15
+ componentType: MultipleChoice, questionNumber: a5, componentId: 9080-0_ct_ch03_q05_ans01, answerb,c
+ -----------16
+ componentType: MultipleChoice, questionNumber: a8, componentId: 9080-0_ct_ch03_q07b_ans01, answerb
+ -----------17
+ componentType: MultipleChoice, questionNumber: a10, componentId: 9080-0_ct_ch03_q09_ans01, answerc
+ -----------18
+ componentType: MultipleChoice, questionNumber: a11, componentId: 9080-0_ct_ch03_q10_ans01, answera
+ -----------19
+ componentType: MultipleChoice, questionNumber: a14, componentId: 9080-0_ct_ch03_q13_ans01, answerb
+ -----------20
+ componentType: MultipleChoice, questionNumber: a15, componentId: 9080-0_ct_ch03_q14, answere
